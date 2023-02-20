@@ -1,0 +1,19 @@
+body {
+  background-color: #DFF6FF;
+}
+
+h1 {
+  font-family:sans-serif;
+  color: #1363DF;
+}
+
+h3 {
+  color: #1363DF;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+}
